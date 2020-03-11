@@ -1,0 +1,20 @@
+.userPhoto {
+    width: 100px;
+    height: 100px;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.buttonTurbo {
+    width: 1000px;
+    height: 60px;
+    background-color: aqua;
+    border-color: aqua;
+}
+
+.totalUsers {
+    margin-left: 767px;
+}
+
